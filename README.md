@@ -31,5 +31,5 @@ I like programming small games during my free time to pass the time as a hobby
 
 If you ever want to reach me please use my mail : 
 📩 bolognini.adrien.pro@gmail.com
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/adrien-bolognini-765bba220/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/adrien-bolognini-765bba220/)
+<br> </ br>
+Mon linkedin : [Linkedin](https://www.linkedin.com/in/adrien-bolognini-765bba220/)
