@@ -26,7 +26,8 @@ I like programming small games during my free time to pass the time as a hobby
 
 - A top down RPG using solely vanilla Javascript (started in may 2022)
 
-
+<br>
+<br>
 ### Planned project(s)
 <br>
 <br>
@@ -36,7 +37,6 @@ I like programming small games during my free time to pass the time as a hobby
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Contacts
-<br>
 <br>
 
 If you ever want to reach me please use my mail : 
