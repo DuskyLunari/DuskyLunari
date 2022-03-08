@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Adrien-Bolognini
-- 👀 I’m interested in programming languages such as Python & Javascript but do touch all web directed languages.
-- I also program small games in my spare time as a hobby
-- 🌱 I’m currently learning Web development
-- 📫 How to reach me 📩 bolognini.adrien.pro@gmail.com
 
-<!---
-Adrien-Bolognini/Adrien-Bolognini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Introduction 
+
+Hi, the name's Adrien, Dusky if you prefer to go by nicknames and welcome to my page ! ✨
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Who am I ?
+
+A french student in it's first year at MyDigital School and aiming to work in the future in the field of web development !
+
+I’m interested in programming languages such as Python & Javascript the most currently but do touch all web directed languages like HTML & CSS PHP & SQL aswell.
+
+I like programming small games during my free time to pass the time as a hobby
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Contacts
+
+If you ever want to reach me please use my mail below : 
+📩 bolognini.adrien.pro@gmail.com
