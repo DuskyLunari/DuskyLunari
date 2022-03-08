@@ -21,20 +21,23 @@ I like programming small games during my free time to pass the time as a hobby
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### My current project(s)
-
+<br>
+<br>
 
 - A top down RPG using solely vanilla Javascript (started in may 2022)
 
 
 ### Planned project(s)
-
+<br>
+<br>
 
 - Make small bots for discord
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Contacts
-
+<br>
+<br>
 
 If you ever want to reach me please use my mail : 
 📩 bolognini.adrien.pro@gmail.com
