@@ -16,12 +16,12 @@ I like programming small games during my free time to pass the time as a hobby
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### My current project(s)
+## My current project(s)
 
 - A top down RPG using solely vanilla Javascript (started in may 2022)
 
 
-### Planned project(s)
+## Planned project(s)
 
 - Make small bots for discord
 
