@@ -18,7 +18,7 @@ A french student in it's first year at [MyDigital School](https://www.mydigitals
 
 I’m interested in programming languages such as Python & Javascript the most currently but do touch all web directed languages like HTML & CSS PHP & SQL aswell.
 
-I like programming small games during my free time to pass the time as a hobby
+I like programming small games to pass the time as a hobby
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
