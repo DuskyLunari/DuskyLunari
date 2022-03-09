@@ -49,8 +49,7 @@ Currently looking for a traineeship of at least 2 months starting April 4th 2022
 
 ### Contacts
 <br>
-
-If you ever want to reach me please use my mail : 
+ 
 📩 bolognini.adrien.pro@gmail.com
 <br>
 <br>
