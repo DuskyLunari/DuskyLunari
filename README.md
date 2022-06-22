@@ -42,7 +42,7 @@ I like programming small games as a hobby
 
 ### Work
 
-Currently looking for a traineeship of at least 2 months starting April 4th 2022 in web development
+Currently looking for an internship for 2 years starting september 2022 in web development
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
