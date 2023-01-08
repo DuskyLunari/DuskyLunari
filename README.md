@@ -42,7 +42,7 @@ I like to spend time programming small games as a hobby.
 
 ### Work
 
-Currently looking for an internship for 2 years starting september 2022 in web development
+Currently looking for an internship of 1 month from 3rd April to the 4th May 2023
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
