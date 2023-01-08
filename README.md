@@ -14,11 +14,11 @@ Hi, the name's Adrien, Dusky if you prefer to go by nicknames and welcome to my 
 
 <br>
 
-A student in it's first year at [MyDigital School](https://www.mydigitalschool.com/)🧠 and aiming to work in the future in the field of web development !
+A student in a web dev JS formation at [3wa](https://3wa.fr/)🧠 and aiming to work in the future in the field of web development !
 
-I’m interested in Python & Javascript the most currently but do touch all web directed languages like HTML & CSS PHP & SQL aswell.
+I’m interested in Python & Javascript the most currently.
 
-I like programming small games as a hobby
+I like to spend time programming small games as a hobby.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
