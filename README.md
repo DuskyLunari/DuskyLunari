@@ -14,7 +14,7 @@ Hi, the name's Adrien, Dusky if you prefer to go by nicknames and welcome to my 
 
 <br>
 
-A student in a web dev JS formation at [3wa](https://3wa.fr/)🧠 and aiming to work in the future in the field of web development !
+Interested in coding and aiming to work in the future in the field of web development !
 
 I’m interested in Python & Javascript the most currently.
 
@@ -26,7 +26,7 @@ I like to spend time programming small games as a hobby.
 
 <br>
 
-- A top down RPG using solely vanilla Javascript (started in may 2022)
+- A top down RPG turn based
 
 <br>
 
@@ -40,13 +40,6 @@ I like to spend time programming small games as a hobby.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Work
-
-Currently looking for an internship of 1 month from 3rd April to the 4th May 2023
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ### Contacts
 <br>
  
@@ -54,6 +47,4 @@ Currently looking for an internship of 1 month from 3rd April to the 4th May 202
 <br>
 <br>
 My linkedin : [Linkedin](https://www.linkedin.com/in/adrien-bolognini-765bba220/)
-<br>
-<br>
-My Twitter : [Twitter](https://twitter.com/AdrienBolognini)
+
