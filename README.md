@@ -16,17 +16,17 @@ Hi, the name's Adrien, Dusky if you prefer to go by nicknames and welcome to my 
 
 Interested in coding and aiming to work in the future in the field of web development !
 
-I’m interested in Python & Javascript the most currently.
+I’m interested in Javascript/React the most currently.
 
 I like to spend time programming small games as a hobby.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### My current project(s)
+### My current hoby project(s)
 
 <br>
 
-- A top down RPG turn based
+- An RPG web based (React.js no backend)
 
 <br>
 
