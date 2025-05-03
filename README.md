@@ -5,7 +5,7 @@
 
 <br>
 
-Hi, the name's Adrien, Dusky if you prefer to go by nicknames and welcome to my page ! ✨
+Hi, the name's Dusky and welcome to my page ! ✨
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -26,7 +26,7 @@ I like to spend time programming small games as a hobby.
 
 <br>
 
-- An RPG web based (React.js no backend)
+- Make small tools or utilities
 
 <br>
 
@@ -34,7 +34,7 @@ I like to spend time programming small games as a hobby.
 
 <br>
 
-- Make small bots for discord
+- Simple web RPG concepts
 
 <br>
 
