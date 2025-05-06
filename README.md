@@ -39,12 +39,3 @@ I like to spend time programming small games as a hobby.
 <br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Contacts
-<br>
- 
-📩 bolognini.adrien.pro@gmail.com
-<br>
-<br>
-My linkedin : [Linkedin](https://www.linkedin.com/in/adrien-bolognini-765bba220/)
-
