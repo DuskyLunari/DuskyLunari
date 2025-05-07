@@ -22,19 +22,23 @@ I like to spend time programming small games as a hobby.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### My current hoby project(s)
+### My current project(s)
 
 <br>
 
-- Make small tools or utilities
+- Make small tools or utilities (currently private)
+- Small discord bot to go along tools (currently private)
+- Simple web RPG concepts (WIP, posted soon)
 
 <br>
 
-### Planned project(s)
+### Planned learning(s)
 
 <br>
 
-- Simple web RPG concepts
+- More advanced web structure logic
+- Improve on UI/UX
+- Master fundamentals and advanced/modern JS
 
 <br>
 
