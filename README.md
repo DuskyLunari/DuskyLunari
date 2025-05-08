@@ -26,7 +26,7 @@ I like to spend time programming small games as a hobby.
 
 <br>
 
-- Make small tools or utilities (currently private)
+- Make small tools or utilities (IPC2 Tools)
 - Small discord bot to go along tools (currently private)
 - Simple web RPG concepts (WIP, posted soon)
 
