@@ -48,7 +48,7 @@ I like to spend time programming small games as a hobby.
 
 - 🌐 [Portfolio](https://github.com/DuskyLunari/P12_Portfolio) — My personal portfolio (SCSS, Vanilla JS)  
 - 🔧 [IPC2Tools](https://github.com/DuskyLunari/IPC2Tools) — JSON generator for IPC2 / Information sharer (in dev)
-- 🎮 [A.U.R](https://github.com/DuskyLunari/IPC2Tools) — Web RPG using JS (in dev)  
+- 🎮 [A.U.R](https://github.com/DuskyLunari/A.U.R) — Web RPG using JS (in dev)  
 
 <br>
 
